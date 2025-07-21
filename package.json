@@ -1,0 +1,26 @@
+{
+  "name": "taxonomy-api",
+  "version": "1.0.0",
+  "description": "This is the api about taxonomy records",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antcodernez/taxonomy-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/antcodernez/taxonomy-api/issues"
+  },
+  "homepage": "https://github.com/antcodernez/taxonomy-api#readme",
+  "devDependencies": {
+    "@types/node": "^24.0.11",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.8.3"
+  }
+}
